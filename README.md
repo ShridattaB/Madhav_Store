@@ -1,12 +1,13 @@
-Objective: Designed a Power BI dashboard to track and analyze online sales for Madhav Store.
+Objective:
 
-I made a special computer display using Power BI to keep an eye on and understand how well Madhav Store is selling things online.
+I created a special computer screen using Power BI to watch and understand how well Madhav Store is selling things online.
 Achievements:
 
-Created an interactive Power BI dashboard for nationwide online sales analysis.
-Made special settings and buttons so we can look at the sales information in a way that we like.
-Changed and organized the information using connections, joining tables, and doing calculations to find useful things.
-Used different types of pictures and charts (like bar charts, pie charts, and scatter charts) to show the information in a way that is easy to understand.
-Skills: Data analysis, Power BI, data visualization, data manipulation.
+I made a cool Power BI screen for looking at sales all over the country.
+I added special buttons so we can see sales information the way we want.
+I organized and changed the information to find useful things.
+I used different types of pictures and charts to show the information in an easy way.
+Skills:
 
-I'm good at looking at information, using Power BI (a computer program), making information look nice, and organizing it in a way that helps us understand better.
+I'm good at looking at information and using Power BI (a computer program) to make it look nice.
+I organize information to help us understand it better.
