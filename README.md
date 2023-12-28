@@ -1,3 +1,5 @@
+![](https://github.com/ShridattaB/Madhav_Store/blob/main/Madhav_Store.gif)
+
 Objective:
 
 I created a special computer screen using Power BI to watch and understand how well Madhav Store is selling things online.
